@@ -1,0 +1,9 @@
+<ul class="list-inline">
+  <% data.cities.each do |city, info| %>
+  <li>
+    <img src="https://kitt.lewagon.com/placeholder/cities/<%= city %>" alt="">
+    <h2><%= info["name"].capitalize %></h2>
+    <p>Address: <%= info["address"] %></p>
+  </li>
+  <% end %>
+</ul>

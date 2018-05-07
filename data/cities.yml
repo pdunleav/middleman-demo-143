@@ -1,0 +1,12 @@
+berlin:
+  name: Le wagon Berlin
+  address: "Rudi-Dutschke-Straße 26, 10969 Berlin"
+paris:
+  name: Le wagon Paris
+  address: "16, villa Gaudelet 75011 Paris"
+london:
+  name: Le wagon London
+  address: "138 Kingsland Road, London"
+bali:
+  name: Le Wagon bali
+  address: "123 Bali Rd"
